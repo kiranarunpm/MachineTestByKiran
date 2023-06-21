@@ -1,7 +1,11 @@
 # MachineTestByKiran
 
+Source Control 
+--------------
+Checkout develop Branch
 
-Control Flow 
+
+Control Flow : -
 
 New User
 ---------------
@@ -17,9 +21,10 @@ Login -> Verification -> Show Details Current user and Existing Users
 * Note 
 
 There are two ways to Authenticate OTP
- - Silent Notification (ie: Requires certications and Devices)
+
+ - Silent Push notification Notification (ie: Requires certifications and Devices)
  
- - Using Captca : Afer sending opt it will redirected to Firebase Captcha Verification, Then redirected to the Verification 
+ - Using CAPTCHA : After sending opt it will redirected to Firebase CAPTCHA  Verification, Then redirected to the Verification 
  
  Limits : 50 OTP for testing Purpose 
  
@@ -27,14 +32,10 @@ There are two ways to Authenticate OTP
  For Testing
  ---------------
  
- mobile number : 9495093452 (Registed User)
- otp : 123456
+ mobile number : 9495093452 (Registered User)
+ OTP : 123456
  
  
  New User
  ---------------
  You have to Enter Mobile Number 10 digits
- 
- 
- 
- 
