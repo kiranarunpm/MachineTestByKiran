@@ -1,0 +1,6 @@
+framework module Pods_MachineTestByKiran_MachineTestByKiranUITests {
+  umbrella header "Pods-MachineTestByKiran-MachineTestByKiranUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

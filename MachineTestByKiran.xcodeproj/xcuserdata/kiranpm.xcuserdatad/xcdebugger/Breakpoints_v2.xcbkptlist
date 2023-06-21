@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8AB831D0-DAF7-4317-8342-20C56DC072F4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B762C5B-0836-4C00-8F6A-F8D604DFE0D0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MachineTestByKiran/ViewcontrollClasses/RegisterUserVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9B762C5B-0836-4C00-8F6A-F8D604DFE0D0 - d6ddb5f7390dd963"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MachineTestByKiran.RegisterUserVC.viewDidLoad() -&gt; ()"
+                  moduleName = "MachineTestByKiran"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kiranpm/Downloads/MachineTestByKiran-main/MachineTestByKiran/MachineTestByKiran/ViewcontrollClasses/RegisterUserVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "9B762C5B-0836-4C00-8F6A-F8D604DFE0D0 - d6ddb5f7390dd92d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MachineTestByKiran.RegisterUserVC.viewDidLoad() -&gt; ()"
+                  moduleName = "MachineTestByKiran"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kiranpm/Downloads/MachineTestByKiran-main/MachineTestByKiran/MachineTestByKiran/ViewcontrollClasses/RegisterUserVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "9B762C5B-0836-4C00-8F6A-F8D604DFE0D0 - d6ddb5f7390ddc74"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MachineTestByKiran.RegisterUserVC.viewDidLoad() -&gt; ()"
+                  moduleName = "MachineTestByKiran"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kiranpm/Downloads/MachineTestByKiran-main/MachineTestByKiran/MachineTestByKiran/ViewcontrollClasses/RegisterUserVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B73EB903-D563-4534-ABEB-D27DDFB58AF2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MachineTestByKiran/ViewcontrollClasses/RegisterUserVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6C67C34-DE5F-4013-95AA-5827D558BFAF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MachineTestByKiran/ViewcontrollClasses/RegisterUserVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
