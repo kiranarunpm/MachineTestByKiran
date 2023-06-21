@@ -524,7 +524,7 @@
                                                             <constraint firstAttribute="height" constant="40" id="6hT-dy-zma"/>
                                                         </constraints>
                                                         <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                                        <textInputTraits key="textInputTraits" keyboardType="phonePad"/>
+                                                        <textInputTraits key="textInputTraits" autocapitalizationType="words" keyboardType="phonePad"/>
                                                     </textField>
                                                 </subviews>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
@@ -556,7 +556,7 @@
                                                             <constraint firstAttribute="height" constant="40" id="0Bx-MQ-5ux"/>
                                                         </constraints>
                                                         <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                                        <textInputTraits key="textInputTraits" keyboardType="phonePad"/>
+                                                        <textInputTraits key="textInputTraits" autocapitalizationType="words" keyboardType="phonePad"/>
                                                     </textField>
                                                 </subviews>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
@@ -588,7 +588,7 @@
                                                             <constraint firstAttribute="height" constant="40" id="hjo-W4-I30"/>
                                                         </constraints>
                                                         <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                                        <textInputTraits key="textInputTraits" keyboardType="phonePad"/>
+                                                        <textInputTraits key="textInputTraits" keyboardType="emailAddress"/>
                                                     </textField>
                                                 </subviews>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>

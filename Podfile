@@ -9,6 +9,7 @@ target 'MachineTestByKiran' do
   pod 'Firebase/Firestore'
   pod 'Firebase/Database'
   pod 'MBProgressHUD', '~> 1.2.0'
+  pod 'IQKeyboardManagerSwift'
 
 
   # Pods for MachineTestByKiran
